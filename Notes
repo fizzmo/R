@@ -1,0 +1,8 @@
+#See what packages are available
+available.packages()
+
+#Install Packages
+install.packages()
+
+#Load Packages
+library()

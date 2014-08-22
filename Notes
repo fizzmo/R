@@ -3,6 +3,7 @@ available.packages()
 
 #Install Packages
 install.packages()
-
+example:  install.packages("caret")
 #Load Packages
 library()
+library("caret")
